@@ -10,4 +10,4 @@ Also the robber can look around (up to two houses around it's) and decide where 
 
 This will continue until a cop stands exactly beside the robber and then the robber will be caught on next move but the board will be printed (only near cop moves)and game will head to menu asking you to start a new game or changing dimension sizes or police numbers (both stations and each stations cops) or exiting the game!
 
-p.s: this game was compiled by gcc therefore I needed to rewrite getch function! consider if you want to compile by mvc (you can also use getchar or scanf if you decide! - refer to main.c: line 12) , and under Linux then you may change command 'clear' to 'cls' under Windows OS(refer to main.c: line 10).
+p.s: this game was compiled by gcc therefore I needed to rewrite getch function! consider if you want to compile by mvc (you can also use getchar or scanf if you decide! - refer to main.c: line 12) , and under Linux then you may change command 'clear' to 'cls' under Windows OS(refer to main.c: line 10).ِYet, to Experience Best Performance Run on LINUX or MAC.
